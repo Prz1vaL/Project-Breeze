@@ -9,10 +9,10 @@ USAGE OF AZURE- DevOps : https://dev.azure.com/st-andrews/Project%20Breeze (as p
 
 TEAM MEMBERS : 
 
-AJAY PRADEEP MAHADEVEN.
-ARTHUR YONG .
-MOHAMED RILWAN SHAIK DAWOOD.
-SHIVANG SINHA.
+AJAY PRADEEP MAHADEVEN,
+ARTHUR YONG,
+MOHAMED RILWAN SHAIK DAWOOD,
+SHIVANG SINHA,
 VICTOR YUAN.
 
 
@@ -33,4 +33,4 @@ All the teammates were able to contribute to their work equally and fairly, ever
 The teammate that particularly stood out was Victor Yuan since this member worked on the core part of the technical report such as the structural class diagram, and behavioural sequence and collaborated on ER modelling. The member worked tirelessly to perfect these parts and wasn’t satisfied after many of his inital drafts of the above topics that he worked on well after when the report was finally committed.
 Questions were encouraged within the team, and free thought and speech paved the way for great team collaboration and solving any work or social-related problems (not that there were any).
 
-My experience working with the team was adapting new work culture and understanding how a team works in job places on SCRUM agile framework. What a month of coursework thought me was that the right team could create wonders for any project. (P.S I HOPE THE ALL NIGHTERS PAID OFF)..
+My experience working with the team was adapting new work culture and understanding how a team works in job places on SCRUM agile framework. What a month of coursework thought me was that the right team could create wonders for any project. (P.S I HOPE THE "ALL NIGHTERS" PAID OFF)..
