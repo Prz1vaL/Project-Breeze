@@ -55,5 +55,3 @@ We used <strong> Azure DevOps as part of our SCRUM-based Agile methodology </str
 This project is done part of coursework of <strong> CS5030 - Software Engineering Principles</strong> of the <strong> Computer Science Dept of University of St.Andrews.</strong> </br>
 
 This project is licensed under the <code> MIT License. </code>See the <code>LICENSE</code> file for more information.
-
---
