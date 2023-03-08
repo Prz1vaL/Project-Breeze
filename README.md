@@ -48,6 +48,12 @@ We used <strong> Azure DevOps as part of our SCRUM-based Agile methodology </str
 <li> The teammate that particularly stood out was Victor Yuan, who worked tirelessly on the core part of the technical report such as the structural class diagram and behavioral sequence and collaborated on ER modeling. Questions were encouraged within the team, and free thought and speech paved the way for great team collaboration and solving any work or social-related problems.
 </ol>
 
+<p> My experience working with the team was adapting to a new work culture and understanding how a team works in job places on the SCRUM agile framework. What a month of coursework taught me was that the right team could create wonders for any project. (P.S. I HOPE THE "ALL NIGHTERS" PAID OFF) </p>
+
 ---
-My experience working with the team was adapting to a new work culture and understanding how a team works in job places on the SCRUM agile framework. What a month of coursework taught me was that the right team could create wonders for any project. (P.S. I HOPE THE "ALL NIGHTERS" PAID OFF)
----
+### License
+This project is done part of coursework of <strong> CS5030 - Software Engineering Principles</strong> of the <strong> Computer Science Dept of University of St.Andrews.</strong> </br>
+
+This project is licensed under the <code> MIT License. </code>See the <code>LICENSE</code> file for more information.
+
+--
