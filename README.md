@@ -1,6 +1,5 @@
 
-# Application Name 
-<strong> Project Breeze </strong>
+#  Project Breeze
 
 ---
 
